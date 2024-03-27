@@ -1,15 +1,15 @@
 # Ex02 Django ORM Web Application
 ## Date: 20-03-2024
-## Name: Blessing jeffrey Y.L
-## Reg.no: 212223220014
-## Dept: IT
+## Name: Rithik V
+## Reg.no: 212223230171
+## Dept: AI&DS
 
 ## AIM
 To develop a Django application to store and retrieve data from a Book database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
 
-![Alt text](<Screenshot 2024-03-20 160647.png>)
+![alt text](diahram.png)
 
 ## DESIGN STEPS
 
@@ -48,8 +48,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT
 
-![Alt text](<Screenshot 2024-03-20 160306.png>)
-
+![alt text](output.png)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
